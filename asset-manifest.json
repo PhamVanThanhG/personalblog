@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/personalblog/static/css/main.073c9b0a.css",
-    "main.js": "/personalblog/static/js/main.8f536e59.js",
+    "main.css": "/personalblog/static/css/main.c628ce8a.css",
+    "main.js": "/personalblog/static/js/main.000808a0.js",
     "static/js/787.c0841a6b.chunk.js": "/personalblog/static/js/787.c0841a6b.chunk.js",
-    "static/media/logo.svg": "/personalblog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/user.png": "/personalblog/static/media/user.cee05a72773a449b0561.png",
+    "static/media/icon-6.png": "/personalblog/static/media/icon-6.3c196e27543451798f3d.png",
+    "static/media/icon-4.png": "/personalblog/static/media/icon-4.114e04002c26b1ba75ba.png",
+    "static/media/icon-5.png": "/personalblog/static/media/icon-5.2184ea84db17b67591b4.png",
+    "static/media/icon-2.png": "/personalblog/static/media/icon-2.7ade9265dc9bd2c6bc82.png",
+    "static/media/icon-1.png": "/personalblog/static/media/icon-1.e7a936432435be030e1c.png",
+    "static/media/icon-3.png": "/personalblog/static/media/icon-3.b53de0f8c513f9e8b378.png",
     "index.html": "/personalblog/index.html",
-    "main.073c9b0a.css.map": "/personalblog/static/css/main.073c9b0a.css.map",
-    "main.8f536e59.js.map": "/personalblog/static/js/main.8f536e59.js.map",
+    "main.c628ce8a.css.map": "/personalblog/static/css/main.c628ce8a.css.map",
+    "main.000808a0.js.map": "/personalblog/static/js/main.000808a0.js.map",
     "787.c0841a6b.chunk.js.map": "/personalblog/static/js/787.c0841a6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8f536e59.js"
+    "static/css/main.c628ce8a.css",
+    "static/js/main.000808a0.js"
   ]
 }
