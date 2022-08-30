@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import './assets/css/style.css';
 import RouterPage from './pages/RouterPage';
 import Home from './pages/Home';

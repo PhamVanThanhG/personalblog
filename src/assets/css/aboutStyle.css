@@ -1,0 +1,6 @@
+.box{
+    justify-content: flex-start;
+}
+.notEmail{
+    text-transform: none;
+}
