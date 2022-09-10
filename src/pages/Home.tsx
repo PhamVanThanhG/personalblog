@@ -35,7 +35,7 @@ export default function Home() {
           </p>
           <Link to={"/about"}>
             <div className="btn">
-              about me <i className="fas fa-user"></i>
+              about me<i className="fas fa-user"></i>
             </div>
           </Link>
         </div>
